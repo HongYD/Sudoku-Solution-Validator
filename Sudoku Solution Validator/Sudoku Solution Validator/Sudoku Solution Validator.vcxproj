@@ -145,6 +145,7 @@
     <ClInclude Include="Sudoku.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="box.c" />
     <ClCompile Include="puzzle.c" />
     <ClCompile Include="square.c" />
     <ClCompile Include="Sudoku.c" />

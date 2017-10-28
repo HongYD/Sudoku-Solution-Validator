@@ -29,5 +29,8 @@
     <ClCompile Include="square.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="box.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
