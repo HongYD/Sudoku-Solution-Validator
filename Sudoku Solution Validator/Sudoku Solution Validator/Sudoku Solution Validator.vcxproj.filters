@@ -26,5 +26,8 @@
     <ClCompile Include="puzzle.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="square.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
